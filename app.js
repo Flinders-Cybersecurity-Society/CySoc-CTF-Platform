@@ -30,7 +30,7 @@ function App() {
       </main>
       {/* Hidden flag in the source code */}
       <footer>
-        <p>Can you uncover hidden secrets? CYSOC{4G3NT_1S_3XP0S3D!}</p>
+        <p>Can you uncover hidden secrets?</p>
       </footer>
     </div>
   );
